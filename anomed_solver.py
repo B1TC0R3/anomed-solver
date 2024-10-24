@@ -1,6 +1,6 @@
 from sys import argv
 
-# Order colors: red yellow blue black
+# Order colors: red blue yellow black
 data = [
     [ # Anna
         [0, 1, 0, 3],
